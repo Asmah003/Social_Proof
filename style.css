@@ -87,6 +87,7 @@ body {
   display: flex;
   flex-direction: column;
   padding: 35px 30px;
+  margin: 10px;
   background-color: #460a63;
   border-radius: 10px;
 }
