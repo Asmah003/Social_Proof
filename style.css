@@ -12,7 +12,7 @@ body {
   font-family: Arial, sans-serif;
   gap: 20px;
   padding: 60px 40px;
-  width: 50%;
+  width: 30%;
 }
 .champ1 {
   display: flex;
@@ -30,10 +30,16 @@ body {
   width: 90%;
 }
 .box1 {
-  width: 40%;
+  width: 30%;
+}
+.box1 p {
+  font-size: 1rem;
+  color: #777;
+  line-height: 1.5;
 }
 .etoile {
   width: 55%;
+  
 }
 .etoile1 {
   margin-left: auto;
@@ -69,10 +75,10 @@ body {
 .box2,
 .box3 {
   margin-top: 0;
-  width: 41%;
+  width: 43%;
 }
 .box4 {
-  width: 92%;
+  /* width: 92%; */
   margin-top: 20px;
 }
 .box2,
