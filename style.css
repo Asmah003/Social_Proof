@@ -12,7 +12,7 @@ body {
   font-family: Arial, sans-serif;
   gap: 20px;
   padding: 60px 40px;
-  width: 30%;
+  /* width: 30%; */
 }
 .champ1 {
   display: flex;
