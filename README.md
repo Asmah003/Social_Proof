@@ -28,13 +28,13 @@ Intégrer et styliser des icônes (ex: Font Awesome ou SVG) pour les évaluation
 
 ## Captures d'ecran
 
-![image](./resultat_proof.png)
+![image](resultat_proof.png)
 
-![image](./resultat_proof1.png)
+![image](resultat_proof1.png)
 
-![image](./resultat_proof2.png)
+![image](resultat_proof2.png)
 
-![image](./resultat_proof3.png)
+![image](resultat_proof3.png)
 
 ## Lien
 [Demo du projet Social Proof](https://asmah003.github.io/Social_Proof/)
